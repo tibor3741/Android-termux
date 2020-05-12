@@ -9,8 +9,8 @@ echo 'clear'>>.bashrc
 echo 'neofetch'>>.bashrc 
 echo "date">>.bashrc
 echo "#Saját aliasok">>.bashrc
-echo "alias rm ='rm -rf'">>.bashrc
-echo "alias ls ='ls -a'">>.bashrc
-echo "alias c ='clear'">>.bashrc
+echo "alias rm='rm -rf'">>.bashrc
+echo "alias ls='ls -a'">>.bashrc
+echo "alias c='clear'">>.bashrc
 clear
 exit
