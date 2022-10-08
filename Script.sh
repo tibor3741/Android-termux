@@ -13,6 +13,6 @@ git clone https://gitlab.com/dwt1/dotfiles/-/tree/master/.config/vifm
 #nvim
 git clone https://gitlab.com/dwt1/dotfiles/-/tree/master/.config/nvim
 #aliases
-wget https://github.com/magyarch/magyarch-ratpoison/blob/main/.config/aliasrc
+wget https://raw.githubusercontent.com/magyarch/magyarch-ratpoison/main/.config/aliasrc
 #install zsh
 sh -c "$(wget -O- https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
